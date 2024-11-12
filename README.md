@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: BeyondChatGPT Demo
 emoji: 📉
 colorFrom: pink
@@ -188,3 +189,15 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 <p></p>
 
 ### That's it for now!  And so it begins.... :)
+=======
+title: BeyondChatGPT
+emoji: 😻
+colorFrom: red
+colorTo: blue
+sdk: docker
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> 81b8998 (initial commit)
